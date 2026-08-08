@@ -6,7 +6,7 @@ This interactive dashboard translates cleaned sales transaction data into execut
 ---
 
 ## Live Dashboard & Screenshot
-🔗 **[https://github.com/Omotayo1460/Cafe_Sales_SQL_EDA](#)**
+🔗 **[https://datastudio.google.com/reporting/a09038ff-9a46-48e8-827e-eaf09fcb6dfc](#)**
 
 ---
 
