@@ -6,7 +6,7 @@ This interactive dashboard translates cleaned sales transaction data into execut
 ---
 
 ## Live Dashboard: Click link below to view
-🔗 **[Live Dashboard](https://datastudio.google.com/s/p9mWXOCa5us)**
+🔗 **[Sales Excecutive Live Dashboard](https://datastudio.google.com/s/p9mWXOCa5us)**
 
 ---
 
